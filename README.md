@@ -1,1 +1,1 @@
-Guess-the-number
+The program is in Croatian.
